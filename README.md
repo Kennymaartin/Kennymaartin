@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Kennymartin16
-- 👀 I’m interested in working with javascript and everything that makes the web and mobile application works.
+- 👀 I’m interested in fullstack development and everything that makes the web and mobile application works.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me kenechukwumartin4@gmail.com
