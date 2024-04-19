@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kennymartin16
+- 👋 Hi, I’m Kenechukwu Oguejiofor
 - 👀 I’m interested in fullstack development and everything that makes the web and mobile application works.
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on open source projects
