@@ -20,6 +20,6 @@
 
 Feel free to connect with me on LinkedIn, follow me on GitHub, or reach out via email.
 
-[LinkedIn](https://www.linkedin.com/in/oguejiofor/) | [X](https://x.com/Kennymaartin) | [Email](mailto:kenechukwumartin4@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kennymaartin/) | [X](https://x.com/Kennymaartin) | [Email](mailto:kenechukwumartin4@gmail.com)
 
 <!-- End of README -->
